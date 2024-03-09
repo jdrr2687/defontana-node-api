@@ -1,5 +1,5 @@
 ## Description
-API creada con node, express y typescript.
+API creada con Node, Express y TypeScript.
 
 ## Installation
 
